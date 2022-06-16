@@ -38,8 +38,12 @@ ul {
 }
 
 ul li {
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 	margin: 1rem 0;
+}
+
+ul li label {
+	padding-left: 5px;
 }
 
 button {
