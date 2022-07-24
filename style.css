@@ -127,4 +127,8 @@ button:focus {
 	.result {
 		margin-bottom: 50px;
 	}
+
+	button {
+		cursor: none;
+	}
 }
